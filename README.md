@@ -1,4 +1,4 @@
-<img width="613" height="607" alt="nvi_and_google" src="https://github.com/user-attachments/assets/ce266f5c-fc5e-4a53-9235-250aedaf97de" />
+
 # andeptrai-pixel's profile
 
 ## 🎓 Certifications & Badges
