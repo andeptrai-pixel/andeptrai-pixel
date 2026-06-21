@@ -20,7 +20,6 @@
     </td>
   </tr>
 </table>
-
-I’m currently developing my own project called LuminaDebating, which has helped some of my classmates enhance their critical thinking and English processing skills under pressure.
+I’m currently learning and developing my own project.
 
 Greet to connect with you! have a good day.
