@@ -20,6 +20,6 @@
     </td>
   </tr>
 </table>
-I’m currently learning and developing my own project.
+hello, my name is An, I’m currently learning and developing my own project.
 
 Greet to connect with you! have a good day.
