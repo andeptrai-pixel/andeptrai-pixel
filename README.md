@@ -11,7 +11,7 @@
     <td width="40%" valign="middle" align="center">
       <h3>🎖️ Badges</h3>
       <a href="https://developers.google.com/profile/badges/nvidia-developer" target="_blank">
-        <img src="https://github.com/user-attachments/assets/bb2e725c-105e-41b1-a8af-08cc23acf71b" alt="Google Cloud & NVIDIA" width="130">
+        <img src="https://github.com/user-attachments/assets/bb2e725c-105e-41b1-a8af-08cc23acf71b" alt="Google Cloud & NVIDIA" width="100%">
       </a>
       <br>
       <p align="center">
