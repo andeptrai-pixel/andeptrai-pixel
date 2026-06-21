@@ -4,13 +4,14 @@
 
 <table width="100%">
   <tr>
+    <!-- Cột bên trái: Hiển thị chứng chỉ -->
     <td width="60%" align="center" valign="middle">
       <img src="CS50x.png" alt="CS50 Certificate" width="100%">
     </td>
     <td width="40%" valign="middle" align="center">
       <h3>🎖️ Badges</h3>
       <a href="https://developers.google.com/profile/badges/nvidia-developer" target="_blank">
-        <img src="https://developers.google.com/static/profile/badges/playlists/machine-learning/nvidia-developer/badge.svg" alt="Google Cloud & NVIDIA" width="130">
+        <img src="TÊN_FILE_BADGE_CỦA_BẠN.png" alt="Google Cloud & NVIDIA" width="130">
       </a>
       <br>
       <p align="center">
